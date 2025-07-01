@@ -26,6 +26,7 @@ titanic-ml/
 ├── titanic_model.ipynb          # Main notebook (EDA + model)
 ├── train.csv                    # Training dataset
 ├── test.csv                     # Test dataset
+├── gender_submission.csv  
 └── README.md                    # This file
 
 ____________________________________________________________________________________________________________________________________________
